@@ -1,0 +1,16 @@
+EasyCycle - Custom Use License (No Public Distribution)
+
+Copyright (c) 2025 Jandin12 - All Rights Reserved.
+
+This software is protected by copyright law. All rights not explicitly granted in this license are reserved by the copyright holder.
+
+1. PERMITTED USE:
+Permission is granted to any individual or server owner to use this software and modify it for personal, private, and internal server use only.
+
+2. PROHIBITED ACTIONS:
+You MAY NOT:
+  a) Redistribute, republish, or publicly share this software, whether modified or unmodified, on any website, forum, or repository.
+  b) Sell, sublicense, or otherwise use this software for any direct commercial benefit.
+  c) Create public derivative works based on this software.
+
+Any public distribution or commercial use requires explicit written permission from the author.
