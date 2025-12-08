@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2025 Jandin12 - All Rights Reserved.
+ * See the LICENSE.txt file in the root directory for usage exceptions.
+ */
 package com.easycycle;
 
 import net.kyori.adventure.text.Component;
@@ -116,4 +120,5 @@ public class TradeCyclePlugin extends JavaPlugin implements Listener, CommandExe
             villager.shakeHead();
         }, 1L);
     }
+
 }
