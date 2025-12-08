@@ -9,8 +9,8 @@ Permission is granted to any individual or server owner to use this software and
 
 2. PROHIBITED ACTIONS:
 You MAY NOT:
-  a) Redistribute, republish, or publicly share this software, whether modified or unmodified, on any website, forum, or repository.
-  b) Sell, sublicense, or otherwise use this software for any direct commercial benefit.
-  c) Create public derivative works based on this software.
-
-Any public distribution or commercial use requires explicit written permission from the author.
+  a) Sell, sublicense, or otherwise use this software for any direct commercial benefit.
+  b) **Publicly Distribute** this software. Public distribution is defined as uploading the software (modified or unmodified) to any public website, marketplace, plugin repository, or any platform where it can be downloaded by an unknown, unlimited audience.
+  
+3. PRIVATE SHARING EXCEPTION:
+You **ARE** permitted to share the software with a specific, limited number of individuals (such as server staff or close friends) for private use purposes only. This exception does not apply to any form of public distribution defined in 2b.
