@@ -1,0 +1,12 @@
+# EasyCycle Configuration
+
+# How should players cycle trades?
+# Options:
+#   SHIFT_CLICK - Hold Shift and Right-Click the villager.
+#   SWAP_KEY    - Look at the villager and press 'F' (Swap Hands key).
+trigger-mode: SHIFT_CLICK
+
+# Messages
+msg-cycle-success: "<green>Trades cycled!"
+msg-cannot-cycle: "<red>You cannot cycle a villager that has been traded with!"
+msg-no-job: "<yellow>This villager is unemployed!"

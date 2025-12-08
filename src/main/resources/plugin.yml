@@ -1,0 +1,20 @@
+name: EasyCycle
+version: 1.0
+main: com.easycycle.TradeCyclePlugin
+api-version: 1.21
+description: Cycle villager trades easily.
+
+commands:
+  easycycle:
+    description: Main command for EasyCycle
+    usage: /easycycle <reload|version>
+    permission: easycycle.admin
+    aliases: [ec]
+
+permissions:
+  easycycle.use:
+    description: Allow cycling trades
+    default: true
+  easycycle.admin:
+    description: Allow reloading config
+    default: op
