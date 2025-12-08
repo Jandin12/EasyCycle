@@ -1,0 +1,23 @@
+# Maven Build Output
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE Files
+.idea/             # IntelliJ IDEA files
+*.iml              # IntelliJ module files
+.settings/         # General settings folders
+.project           # Eclipse Core
+.classpath         # Eclipse JDT-specific
+.vscode/           # Visual Studio Code settings
+
+# Operating System Files
+.DS_Store          # macOS files
+Thumbs.db          # Windows thumbnail cache
