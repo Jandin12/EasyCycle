@@ -1,6 +1,8 @@
 # EasyCycle
 EasyCycle is a Paper plugin for Minecraft that facilitates cycling villager trades! In order to use it in-game, Either shift-right click or press the F key when looking at the villager (Hotkeys depend on the config, default is shift-right click), and the villager will refresh trades!
 
+![Showcase:](https://github.com/Jandin12/EasyCycle/blob/main/images/javaw_63PdhFcFw2.gif)
+
 ### How to install?
 
 There are two methods on how to install EasyCycle to your server. One is by downloading the plugin either from Modrinth or here **_(By FAR the easiest method)_**, or you can build it from source from the zip file containing all the code for the plugin **_(Harder method, but doable)_**. The instructions on how to get the plugin will be down below.
