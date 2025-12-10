@@ -20,6 +20,7 @@ There are two methods on how to install EasyCycle to your server. One is by down
 
 ### Prerequisites: 
 
+- Before continuing, you have read the bottom of this `README`.
 - You have Apache Maven installed on your operating system, from the [Apache Maven website.](https://maven.apache.org/index.html)
 - You have JDK 21 or 25 installed on your operating system, from the [Oracle Java website.](https://www.oracle.com/java/technologies/downloads/)  _**Please note that I used JDK 25 to build this, so it is recommended to use JDK 25, as it is the latest version, however JDK 21 should work fine as well.**_
 - You downloaded the source zip file, linked down below in release.
@@ -73,3 +74,7 @@ IMPORTANT NOTE: You can easily change this default interaction! If you prefer pr
 1. Open `plugins/EasyCycle/config.yml`.
 2. Change `trigger-mode: SHIFT_CLICK` to `trigger-mode: SWAP_KEY`.
 3. Run `/easycycle reload` or `/ec reload` on your server console or in-game.
+
+
+### PLEASE NOTE:
+_**The `images` directory and other directories is for the GitHub repository. The only files you need in order to build the plugin JAR file is `pom.xml`, and the `src` directory.**_
